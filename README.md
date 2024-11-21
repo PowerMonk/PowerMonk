@@ -1,16 +1,43 @@
-## Hi there 👋
+<h1 align="left">Mi README publico de github :S</h1>
 
-<!--
-**PowerMonk/PowerMonk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">No tengo la suficiente imaginación como para hacer un readme decente JAJA</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">Cosas que me gustan</h2>
+
+###
+
+<p align="left">- Los gatos<br>- Los edits de David Laid<br>- Comer</p>
+
+###
+
+<h2 align="left">Lenguajes que se supone que se usar:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/KrlMora05">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=KrlMora05&count=15" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<div align="center">
+  <img height="200" src="https://i.pinimg.com/originals/4b/f9/ba/4bf9babd0d90435ab57f6e08b6dc8e9f.png"  />
+</div>
+
+###
