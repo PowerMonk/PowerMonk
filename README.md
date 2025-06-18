@@ -40,7 +40,7 @@
 
 ###
 
-<h4 align="left">Ya sé que soy mexicano y mi readme está en inglés, que tieneee</h4>
+<h4 align="left">Ya sé que soy mexicano y mi readme está en inglés, que tieneee (revisa mis pines ahí está lo bueno)</h4>
 
 <div align="center">
   <img height="200" src="https://i.pinimg.com/originals/4b/f9/ba/4bf9babd0d90435ab57f6e08b6dc8e9f.png"  />
