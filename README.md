@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">No tengo la suficiente imaginación como para hacer un readme decente JAJA</p>
+<p align="left">Profficient in rambling using keys to make silicon rocks make computations that make humans' lives better (sometimes)</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Los gatos<br>- Los edits de David Laid<br>- Comer</p>
+<p align="left">- Los gatos<br>- Los edits de David Laid<br>- Comer (Especialmente cuando no cocino yo)</p>
 
 ###
 
@@ -23,14 +23,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/denojs/denojs-original.svg" height="40" alt="denojs logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="astro logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo"/>
 </div>
 
 ###
+
+<h2 align="left">Lo que escucho mientras debuggeo:</h2>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=aromlorak)
 
